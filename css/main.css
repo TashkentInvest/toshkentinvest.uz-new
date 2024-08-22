@@ -298,7 +298,7 @@ body.modal-open {
    ---------------------------------------- */
 .header { 
 	position: absolute;
-	padding: 25px 0;
+	/* padding: 25px 0; */
 	width: 100%;
 	top: 0;
 	left: 0;
@@ -316,7 +316,7 @@ body.modal-open {
 .modal-open .header { padding-right: 17px; }
 
 .is-sticky .header { 
-	padding: 15px 0;
+	/* padding: 15px 0; */
 	background: url(../img/bg/gl-bg.png) center top no-repeat #fff;
 	background-size: cover;
 	}
