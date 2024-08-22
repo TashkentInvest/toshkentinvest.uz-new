@@ -317,6 +317,7 @@ body.modal-open {
 
 .is-sticky .header { 
 	/* padding: 15px 0; */
+
 	background: url(../img/bg/gl-bg.png) center top no-repeat #fff;
 	background-size: cover;
 	}
@@ -435,6 +436,7 @@ body.modal-open {
 	line-height: 18px;
 	letter-spacing: 0.8px;
 	list-style-type: none;
+	font-weight: bold;
 	}
 
 .main-navi > ul > li:last-child { margin: 0; }
