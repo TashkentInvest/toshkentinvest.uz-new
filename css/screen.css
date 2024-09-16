@@ -157,8 +157,8 @@
 
 .about-col__left-col:before { 
 	border: 244px solid transparent;
-	border-left: 221px solid #e54b4b;
-	border-top: 221px solid #e54b4b;
+	border-left: 221px solid #00b0f0;
+	border-top: 221px solid #00b0f0;
 	}
 
 .about-col__photo__text span { 
@@ -320,8 +320,8 @@ p.dec-left:before {
 
 .categories__item:before { 
 	border: 244px solid transparent;
-	border-left: 221px solid #e54b4b;
-	border-top: 221px solid #e54b4b;
+	border-left: 221px solid #00b0f0;
+	border-top: 221px solid #00b0f0;
 	}
 
 .categories__description .sm-gl-title { margin: 0 0 30px; }
@@ -332,8 +332,8 @@ p.dec-left:before {
 
 .categories li.text-right .categories__item:before { 
 	border: 244px solid transparent;
-	border-right: 221px solid #e54b4b;
-	border-top: 221px solid #e54b4b;
+	border-right: 221px solid #00b0f0;
+	border-top: 221px solid #00b0f0;
 	}
 
 .news.changed { 
@@ -351,8 +351,8 @@ p.dec-left:before {
 
 .catalog__item:before { 
 	border: 145px solid transparent; 
-	border-left: 145px solid #e54b4b;
-	border-top: 145px solid #e54b4b;
+	border-left: 145px solid #00b0f0;
+	border-top: 145px solid #00b0f0;
 	}
 
 .product-info__description { padding: 70px 0 0 50px; }
@@ -793,8 +793,8 @@ p.dec-left:before {
 
 .catalog__item:before { 
 	border: 100px solid transparent; 
-	border-left: 100px solid #e54b4b;
-	border-top: 100px solid #e54b4b;
+	border-left: 100px solid #00b0f0;
+	border-top: 100px solid #00b0f0;
 	}
 
 .windowsills-tabs .tabs-nav__link { 
@@ -808,8 +808,8 @@ p.dec-left:before {
 
 .windowsills-tabs .tabs-nav__item:before { 
 	border: 60px solid transparent; 
-	border-left: 60px solid #e54b4b;
-	border-top: 60px solid #e54b4b;
+	border-left: 60px solid #00b0f0;
+	border-top: 60px solid #00b0f0;
 	}
 
 .windowsills-tabs__icon { 
@@ -893,8 +893,8 @@ p.dec-left:before {
 	top: -10px;
 	left: -10px;
 	border: 100px solid transparent; 
-	border-left: 100px solid #e54b4b;
-	border-top: 100px solid #e54b4b;
+	border-left: 100px solid #00b0f0;
+	border-top: 100px solid #00b0f0;
 	}
 
 .directions-list__item a { padding: 10px; }
@@ -916,8 +916,8 @@ p.dec-left:before {
 	top: -10px;
 	left: -10px;
 	border: 100px solid transparent; 
-	border-left: 100px solid #e54b4b;
-	border-top: 100px solid #e54b4b;
+	border-left: 100px solid #00b0f0;
+	border-top: 100px solid #00b0f0;
 	}
 
 .factory-list__item a { padding: 10px; }
@@ -947,16 +947,16 @@ p.dec-left:before {
     top: -10px;
     left: -10px;
     border: 100px solid transparent; 
-	border-left: 100px solid #e54b4b;
-	border-top: 100px solid #e54b4b;
+	border-left: 100px solid #00b0f0;
+	border-top: 100px solid #00b0f0;
 	}
 
 .factory-tour__poster:after {
     bottom: -10px;
     right: -10px;
     border: 100px solid transparent; 
-	border-right: 100px solid #e54b4b;
-	border-bottom: 100px solid #e54b4b;
+	border-right: 100px solid #00b0f0;
+	border-bottom: 100px solid #00b0f0;
 	}
 
 .work-product__in { padding: 150px 0; }
@@ -1124,8 +1124,8 @@ fieldset { margin: 0 0 20px; }
 	top: 0;
 	left: 0;
 	border: 190px solid transparent; 
-	border-left: 190px solid #e54b4b;
-	border-top: 190px solid #e54b4b;
+	border-left: 190px solid #00b0f0;
+	border-top: 190px solid #00b0f0;
 	content: "";
 	}
 
@@ -1359,8 +1359,8 @@ table td {
 
 .about-col__left-col:before { 
 	border: 190px solid transparent;
-	border-left: 190px solid #e54b4b;
-	border-top: 190px solid #e54b4b;
+	border-left: 190px solid #00b0f0;
+	border-top: 190px solid #00b0f0;
 	}
 
 .services__content { padding: 40px; }
@@ -1441,14 +1441,14 @@ table td {
 
 .categories__item:before { 
 	border: 190px solid transparent;
-	border-left: 190px solid #e54b4b;
-	border-top: 190px solid #e54b4b;
+	border-left: 190px solid #00b0f0;
+	border-top: 190px solid #00b0f0;
 	}
 
 .categories li.text-right .categories__item:before { 
 	border: 190px solid transparent;
-	border-right: 190px solid #e54b4b;
-	border-top: 190px solid #e54b4b;
+	border-right: 190px solid #00b0f0;
+	border-top: 190px solid #00b0f0;
 	}
 
 .catalog__item a .btn-sm-size { margin: -21px 0 0 -63px; }
@@ -1521,8 +1521,8 @@ table td {
 	top: 0;
 	right: 0;
 	border: 228px solid transparent; 
-	border-right: 228px solid #e54b4b;
-	border-top: 250px solid #e54b4b;
+	border-right: 228px solid #00b0f0;
+	border-top: 250px solid #00b0f0;
 	content: "";
 	}
 
@@ -1540,8 +1540,8 @@ table td {
 
 .interior:before {
 	border: 218px solid transparent; 
-	border-left: 218px solid #e54b4b;
-	border-top: 250px solid #e54b4b;
+	border-left: 218px solid #00b0f0;
+	border-top: 250px solid #00b0f0;
 	}
 
 .interior__description { padding: 50px 0 0 50px; }
@@ -1558,8 +1558,8 @@ table td {
 
 .thermal:before {
 	border: 180px solid transparent; 
-	border-right: 180px solid #e54b4b;
-	border-top: 180px solid #e54b4b;
+	border-right: 180px solid #00b0f0;
+	border-top: 180px solid #00b0f0;
 	}
 
 .thermal__description { padding: 30px 40px 0 0; }
@@ -2393,8 +2393,8 @@ fieldset { margin: 0 0 20px; }
 	right: auto;
 	left: -10px;
 	border: 181px solid transparent; 
-	border-left: 181px solid #e54b4b;
-	border-top: 181px solid #e54b4b;
+	border-left: 181px solid #00b0f0;
+	border-top: 181px solid #00b0f0;
 	}
 
 .directions-info__description { padding: 0; }
@@ -2523,8 +2523,8 @@ fieldset { margin: 0 0 20px; }
 	top: -10px;
 	left: -10px;
 	border: 100px solid transparent; 
-	border-left: 100px solid #e54b4b;
-	border-top: 100px solid #e54b4b;
+	border-left: 100px solid #00b0f0;
+	border-top: 100px solid #00b0f0;
 	content: "";
 	}
 
@@ -3077,8 +3077,8 @@ fieldset { margin: 0 0 20px; }
 
 .modal-dialog:before { 
 	border: 100px solid transparent; 
-	border-left: 100px solid #e54b4b;
-	border-top: 100px solid #e54b4b;
+	border-left: 100px solid #00b0f0;
+	border-top: 100px solid #00b0f0;
 	}
 
 .modal-content__in { padding: 20px; }
@@ -3161,14 +3161,14 @@ fieldset { margin: 0 0 20px; }
 
 .directions-info__photo-wrap:before { 
 	border: 100px solid transparent; 
-	border-left: 100px solid #e54b4b;
-	border-top: 100px solid #e54b4b;
+	border-left: 100px solid #00b0f0;
+	border-top: 100px solid #00b0f0;
 	}
 
 .directions-info li.pos-right .directions-info__photo-wrap:before { 
 	border: 100px solid transparent; 
-	border-left: 100px solid #e54b4b;
-	border-top: 100px solid #e54b4b;
+	border-left: 100px solid #00b0f0;
+	border-top: 100px solid #00b0f0;
 	}
 
 .directions-info .gl-title {
@@ -3299,8 +3299,8 @@ fieldset { margin: 0 0 20px; }
 
 .catalog__item:before { 
 	border: 70px solid transparent; 
-	border-left: 70px solid #e54b4b;
-	border-top: 70px solid #e54b4b;
+	border-left: 70px solid #00b0f0;
+	border-top: 70px solid #00b0f0;
 	}
 
 .product-slider { padding: 30px; }
@@ -3313,8 +3313,8 @@ fieldset { margin: 0 0 20px; }
 
 .windowsills-tabs .tab:before { 
 	border: 70px solid transparent; 
-	border-left: 70px solid #e54b4b;
-	border-top: 70px solid #e54b4b;
+	border-left: 70px solid #00b0f0;
+	border-top: 70px solid #00b0f0;
 	}
 
 .divisions.changed .divisions__photo { height: 250px; }
@@ -3372,14 +3372,14 @@ fieldset { margin: 0 0 20px; }
 
 .factory-tour__poster:before {
     border: 50px solid transparent; 
-	border-left: 50px solid #e54b4b;
-	border-top: 50px solid #e54b4b;
+	border-left: 50px solid #00b0f0;
+	border-top: 50px solid #00b0f0;
 	}
 
 .factory-tour__poster:after {
     border: 50px solid transparent; 
-	border-right: 50px solid #e54b4b;
-	border-bottom: 50px solid #e54b4b;
+	border-right: 50px solid #00b0f0;
+	border-bottom: 50px solid #00b0f0;
 	}
 
 .callback__form { padding: 20px; }
@@ -3447,8 +3447,8 @@ fieldset { margin: 0 0 20px; }
 
 .product-slider:before { 
 	border: 150px solid transparent; 
-	border-left: 150px solid #e54b4b;
-	border-top: 150px solid #e54b4b;
+	border-left: 150px solid #00b0f0;
+	border-top: 150px solid #00b0f0;
 	}
 
 .thermal__photo { height: 300px; }
@@ -3495,16 +3495,16 @@ fieldset { margin: 0 0 20px; }
 	top: -5px;
 	left: -5px;
 	border: 70px solid transparent; 
-	border-left: 70px solid #e54b4b;
-	border-top: 70px solid #e54b4b;
+	border-left: 70px solid #00b0f0;
+	border-top: 70px solid #00b0f0;
 	}
 
 .windowsills-tabs .tabs-nav__item:before { 
 	top: -5px;
 	left: 0;
 	border: 40px solid transparent; 
-	border-left: 40px solid #e54b4b;
-	border-top: 40px solid #e54b4b;
+	border-left: 40px solid #00b0f0;
+	border-top: 40px solid #00b0f0;
 	}
 
 .coating__info-list { display: block; }
@@ -3654,8 +3654,8 @@ table td {
 
 .product-slider:before { 
 	border: 120px solid transparent; 
-	border-left: 120px solid #e54b4b;
-	border-top: 120px solid #e54b4b;
+	border-left: 120px solid #00b0f0;
+	border-top: 120px solid #00b0f0;
 	}
 
 .product-slider__small .slick-arrow { margin: -15px 0 0; }

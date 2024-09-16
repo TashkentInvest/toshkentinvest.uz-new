@@ -12,7 +12,7 @@
     			stroke-width: 0.14px;
     			}
 
-    		.red-color { fill:#e54b4b; }
+    		.red-color { fill:#00b0f0; }
 
     	</style>
   </defs>
