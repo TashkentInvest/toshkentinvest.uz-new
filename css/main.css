@@ -318,13 +318,16 @@ body.modal-open {
 .is-sticky .header { 
 	/* padding: 15px 0; */
 
-	background: url(../img/bg/gl-bg.png) center top no-repeat #fff;
-	background-size: cover;
+	/* background: url(../img/bg/gl-bg.png) center top no-repeat #fff;
+	background-size: cover; */
+	background: #fff;
 	}
 
 .header.white { 
-	background: url(../img/bg/gl-bg.png) center top no-repeat #fff;
-	background-size: cover;
+	/* background: url(../img/bg/gl-bg.png) center top no-repeat #fff;
+	background-size: cover; */
+	background: #fff;
+
 	}
 
 .header__in { 
@@ -7538,8 +7541,10 @@ table .partner-info__rate li {
 	width: 100%;
 	left: 0;
 	bottom: 0;
-	background: url(../img/bg/gl-bg.png) center no-repeat #1d1d1d;
-	background-size: cover;
+	/* background: url(../img/bg/gl-bg.png) center no-repeat #1d1d1d;
+	background-size: cover; */
+	background: #fff;
+
 	z-index: 2;
 	}
 
