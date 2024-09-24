@@ -7541,8 +7541,8 @@ table .partner-info__rate li {
 	width: 100%;
 	left: 0;
 	bottom: 0;
-	/* background: url(../img/bg/gl-bg.png) center no-repeat #1d1d1d;
-	background-size: cover; */
+	background: url(../img/bg/gl-bg.png) center no-repeat #1d1d1d !important;
+	background-size: cover;
 	background: #fff;
 
 	z-index: 2;
