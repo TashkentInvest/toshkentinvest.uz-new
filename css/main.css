@@ -6715,6 +6715,10 @@ table .partner-info__rate li {
 	overflow: hidden;
 	}
 
+	.partners-list__photo a img{
+		height: 396px;
+	}
+
 .partners-list__photo a:after { 
 	position: absolute;
 	display: block;
