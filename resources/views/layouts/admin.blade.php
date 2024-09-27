@@ -115,7 +115,7 @@
                             </form>
                             
                             
-                            <h6 class="text-danger text-bold px-2">MG, MFY, Manzili va Maydoni orqali qidirishingiz mumkin !</h4>
+                            {{-- <h6 class="text-danger text-bold px-2">MG, MFY, Manzili va Maydoni orqali qidirishingiz mumkin !</h4> --}}
                         </li>
 
 

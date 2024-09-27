@@ -90,7 +90,7 @@
             </li>
 
             <li>
-              <a href="contacts.html">Контакты</a>
+              <a href="{{route('frontend.contact')}}">Контакты</a>
         
             </li>
           </ul>
@@ -189,7 +189,7 @@
               
                 <li>
                   <span class="header__sub-menu__navi__opening">
-                    <a class="menu_mob" href="contacts.html">Контакты</a>
+                    <a class="menu_mob" href="{{route('frontend.contact')}}">Контакты</a>
                   </span>
                   <div class="header__sub-menu__navi__dropdown">
                     <ul>
