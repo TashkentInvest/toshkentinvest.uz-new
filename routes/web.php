@@ -39,8 +39,6 @@ Route::group(['middleware' => ['auth', 'checkUserRole']], function () {
  
     Route::get('products/add', [ProductController::class, 'add'])->name('productAdd');
     
-
-    
     Route::get('products/{product}', [ProductController::class, 'show'])->name('products.show');
     Route::get('products/{product}/edit', [ProductController::class, 'edit'])->name('products.edit');
     Route::put('products/{product}', [ProductController::class, 'update'])->name('products.update');
