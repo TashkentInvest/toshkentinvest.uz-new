@@ -12,7 +12,6 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Roboto:400,300,700,900"
     />
-    <link rel="stylesheet" href="./style.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
   </head>
   <body>
@@ -149,7 +148,7 @@ Image
          <p></p>
         <a href="{{route('frontend.index')}}" style="background: #073d8a; color: #fff; font-size: 22px; font-weight: 700;">Домой</a>
       </div>
-      <img src="http://www.supah.it/dribbble/008/008.jpg" data-loa="lazy" />
+      <img src="{{asset('assets/images/404.jpg')}}" data-load="lazy" loading="lazy"/>
     </div>
 
     <!-- Logo -->
