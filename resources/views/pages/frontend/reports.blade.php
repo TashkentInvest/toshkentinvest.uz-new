@@ -1,5 +1,5 @@
 @extends('layouts.frontend_app')
-@section('frontent_content')
+@section('frontend_content')
     <div id="rec748345496" class="r t-rec t-rec_pt_45 t-rec_pb_75"
         style="padding-top:45px;padding-bottom:75px;background-color:#efefef; " data-animationappear="off"
         data-record-type="650" data-bg-color="#efefef"><!-- T650 -->

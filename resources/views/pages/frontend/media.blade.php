@@ -1,5 +1,5 @@
 @extends('layouts.frontend_app')
-@section('frontent_content')
+@section('frontend_content')
     <div id="rec748789817" class="r t-rec t-rec_pt_30 t-rec_pb_60" style="padding-top: 30px; padding-bottom: 60px"
         data-animationappear="off" data-record-type="897">
         <!-- t897 --><!-- @classes t-descr t-descr_xxs t-descr_sm t-title t-title_xxs t-text t-text_md t-heading t-heading_lg t-name t-uptitle t-uptitle_sm t-uptitle_xs t-name_md t-btn t-btn_xs t-btn_sm t-btn_md -->

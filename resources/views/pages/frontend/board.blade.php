@@ -1,5 +1,5 @@
 @extends('layouts.frontend_app')
-@section('frontent_content')
+@section('frontend_content')
     <div class="t531">
         <div class="t-section__container t-container t-container_flex">
             <div class="t-col t-col_12 ">

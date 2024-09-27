@@ -1,5 +1,5 @@
 @extends('layouts.frontend_app')
-@section('frontent_content')
+@section('frontend_content')
     <div id="rec748389591" class="r t-rec t-rec_pt_105 t-rec_pb_105"
         style="padding-top:105px;padding-bottom:105px;background-color:#efefef; " data-record-type="1052"
         data-bg-color="#efefef"><!-- t1052 -->
