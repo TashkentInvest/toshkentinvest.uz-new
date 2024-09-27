@@ -12,6 +12,9 @@ class FrontendController extends Controller
     public function news(){
         return view('pages.frontend.news');
     }
+    public function rukavodstva(){
+        return view('pages.frontend.rukavodstva');
+    }
     public function investoram(){
         return view('pages.frontend.investoram');
     }

@@ -18,7 +18,7 @@
                       <a href="histrory.html">История</a>
                     </li>
                     <li>
-                      <a href="partners-list.html">Руководство</a>
+                      <a href="{{route('frontend.rukavodstva')}}">Руководство</a>
                     </li>
               
                   </ul>
@@ -149,7 +149,7 @@
                     <ul>
                       <li><a href="about.html">О нас</a></li>
                       <li><a href="histrory.html">История</a></li>
-                      <li><a href="partners-list.html">Руководство</a></li>
+                      <li><a href="{{route('frontend.rukavodstva')}}">Руководство</a></li>
                     </ul>
                   </div>
                 </li>
