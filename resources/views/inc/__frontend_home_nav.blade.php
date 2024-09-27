@@ -31,7 +31,7 @@
                 <div class="main-navi__dropdown__in">
                   <ul>
                     <li>
-                      <a href="news.html"
+                      <a href="{{route('frontend.news')}}"
                         >Инвестиционный потенциал города</a
                       >
                     </li>
@@ -74,7 +74,7 @@
                 <div class="main-navi__dropdown__in">
                   <ul>
                     <li>
-                      <a href="news.html">Новости</a>
+                      <a href="{{route('frontend.news')}}">Новости</a>
                     </li>
                     <li>
                       <a href="construction-sector.html">Медиа</a>
@@ -158,7 +158,7 @@
                   <span class="header__sub-menu__navi__opening">Инвесторам</span>
                   <div class="header__sub-menu__navi__dropdown big-size">
                     <ul>
-                      <li><a href="news.html">Инвестиционный потенциал города</a></li>
+                      <li><a href="{{route('frontend.news')}}">Инвестиционный потенциал города</a></li>
                       <li><a href="construction-sector.html">ОПЗ "Янги Авлод"</a></li>
                       <li><a href="heating-solutions.html">Реновация и строительство</a></li>
                       <li><a href="head_Innovation.html">Проекты ГЧП</a></li>
@@ -180,7 +180,7 @@
                   <span class="header__sub-menu__navi__opening">Пресс-центр</span>
                   <div class="header__sub-menu__navi__dropdown big-size">
                     <ul>
-                      <li><a href="news.html">Новости</a></li>
+                      <li><a href="{{route('frontend.news')}}">Новости</a></li>
                       <li><a href="construction-sector.html">Медиа</a></li>
                       <li><a href="heating-solutions.html">Тендеры и конкурсы</a></li>
                     </ul>

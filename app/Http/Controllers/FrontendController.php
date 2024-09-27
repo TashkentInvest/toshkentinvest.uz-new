@@ -9,6 +9,9 @@ class FrontendController extends Controller
     public function index(){
         return view('pages.frontend.home');
     }
+    public function news(){
+        return view('pages.frontend.news');
+    }
     public function investoram(){
         return view('pages.frontend.investoram');
     }

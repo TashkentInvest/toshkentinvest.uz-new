@@ -147,6 +147,7 @@ Route::get('search', [SearchController::class, 'search'])->name('search');
 
 Route::prefix('')->name('frontend.')->group(function () {
     Route::get('/', [FrontendController::class, 'index'])->name('index');
+    Route::get('/news', [FrontendController::class, 'news'])->name('news');
     Route::get('/investoram', [FrontendController::class, 'investoram'])->name('investoram');
     Route::get('/zakupki', [FrontendController::class, 'zakupki'])->name('zakupki');
     Route::get('/media', [FrontendController::class, 'media'])->name('media');
